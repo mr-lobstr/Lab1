@@ -1,0 +1,27 @@
+Array arr >
+    Hello, World, !!!;
+
+List list >
+    a, b, d;
+
+Flist flist >
+    q, w, e, r, t, y;
+
+Stack st >
+    09, 08, 07;
+
+Queue que >
+    -, --, ---;
+
+HashTable myhash >
+    Misha : 19, Tuto : 367, Kto-to : 1234, Sasha : 21, NANANA : 57q;
+
+Tree tree2 >
+    766;
+
+Tree tree >
+    1, 
+    2, 3, 
+    4, 5, 6, 7, 
+    8, 9, 10, 11;
+
